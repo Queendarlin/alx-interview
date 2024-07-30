@@ -1,6 +1,7 @@
 import sys
 """"
-Module for a program that solves the N queens problem."""
+Module for a program that solves the N queens problem.
+"""
 
 
 def is_safe(board, row, col):
