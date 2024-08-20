@@ -27,5 +27,5 @@ def makeChange(coins, total):
 ### Installation
 
 Clone this repository:
-git clone https://github.com/yourusername/alx-interview.git
+git clone https://github.com/Queendarlin/alx-interview.git
 cd alx-interview/0x08-making_change
